@@ -1,0 +1,5 @@
+#N Copperhead
+#C A c/10 orthogonal spaceship discovered by zdr in 2016
+#C The first c/10 spaceship found
+x = 8, y = 12, rule = B3/S23
+b2o2b2o$3b2o$3b2o$obo2bobo$o6bo2$o6bo$b2o2b2o$2b4o2$3b2o$3b2o!

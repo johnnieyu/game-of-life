@@ -1,0 +1,5 @@
+#N Queen Bee Shuttle
+#C A period 30 oscillator discovered by Bill Gosper
+#C One of the first oscillators found
+x = 22, y = 7, rule = B3/S23
+9bo12b$7bobo12b$6bobo13b$2o3bo2bo11b2o$2o4bobo11b2o$7bobo12b$9bo!

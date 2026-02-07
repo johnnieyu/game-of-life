@@ -1,0 +1,5 @@
+#N Loafer
+#C A c/7 orthogonal spaceship discovered by Josh Ball in 2013
+#C The first c/7 spaceship found
+x = 9, y = 9, rule = B3/S23
+b2o2bob2o$o2bo2b2o$bobo$2bo$8bo$6b3o$5bo$6bo$7b2o!

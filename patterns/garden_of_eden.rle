@@ -1,0 +1,5 @@
+#N Garden of Eden
+#C A pattern with no predecessor - can only exist as an initial state
+#C Smallest known orphan with 56 live cells
+x = 11, y = 10, rule = B3/S23
+bob3obo$2bobobo2bo$ob3o2b2o$bob5obo$o2bo2b4o$4o2bo2bo$ob5obo$b2o2b3obo$o2bobobo$2bob3obo!

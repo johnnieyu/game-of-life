@@ -1,0 +1,5 @@
+#N Heavyweight spaceship (HWSS)
+#C The largest orthogonal spaceship that can exist without support
+#C Travels at c/2
+x = 7, y = 5, rule = B3/S23
+2b2o$o4bo$6bo$o5bo$b6o!

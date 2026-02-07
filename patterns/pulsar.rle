@@ -1,0 +1,6 @@
+#N Pulsar
+#C Period 3 oscillator
+#C One of the most recognized oscillators
+x = 13, y = 13, rule = B3/S23
+2b3o3b3o2b$o4bobo4bo$o4bobo4bo$o4bobo4bo$2b3o3b3o2b2$2b3o3b3o2b$o4bob
+o4bo$o4bobo4bo$o4bobo4bo$2b3o3b3o!

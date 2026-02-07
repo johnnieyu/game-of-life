@@ -1,0 +1,5 @@
+#N R-pentomino
+#C A methuselah that stabilizes at generation 1103
+#C with 116 cells including 6 gliders
+x = 3, y = 3, rule = B3/S23
+b2o$2o$bo!

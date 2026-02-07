@@ -1,0 +1,5 @@
+#N Acorn
+#C A methuselah that stabilizes at generation 5206
+#C with 633 cells including 13 gliders
+x = 7, y = 3, rule = B3/S23
+bo$3bo$2o2b3o!

@@ -1,0 +1,5 @@
+#N Blinker
+#C The smallest and most common oscillator
+#C Period 2
+x = 3, y = 1, rule = B3/S23
+3o!
