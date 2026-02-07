@@ -280,6 +280,10 @@ class MenuState(State):
         elif self.game.controller.just_pressed(Button.B):
             self._handle_back()
 
+        # L3: Cycle theme
+        if self.game.controller.just_pressed(Button.L3):
+            self._cycle_theme()
+
         # Left stick navigation
         ly = self.game.controller.get_axis(Axis.LEFT_Y)
         if abs(ly) < 0.3:

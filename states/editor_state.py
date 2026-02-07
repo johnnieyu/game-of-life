@@ -155,6 +155,11 @@ class EditorState(State):
                 self.game.viewport.zoom_out()
                 self.zoom_cooldown = 0.3
 
+        # L3: Cycle theme
+        if ctrl.just_pressed(Button.L3):
+            theme_name = self.game.renderer.cycle_theme()
+            self.game.hud.notify_theme_change(theme_name)
+
         # L/R: Prev/Next pattern
         if ctrl.just_pressed(Button.L):
             self._prev_pattern()
